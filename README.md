@@ -1,2 +1,0 @@
-# Checklist
-Checklist de máquina
